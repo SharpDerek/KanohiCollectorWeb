@@ -1,6 +1,9 @@
 body {
   margin:0;
+  height:100vh;
 }
 #unityContainer {
-  margin: auto;
+  background: #eee;
+  margin: auto !important;
+  height: 100% !important;
 }
