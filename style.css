@@ -8,3 +8,8 @@ body {
   height: 100% !important;
   max-width:100% !important;
 }
+.disclaimer-text {
+ max-width:400px;
+  margin: auto;
+  text-align:center;
+}
